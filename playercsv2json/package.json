@@ -1,0 +1,13 @@
+{
+    "name": "playercsv2json",
+    "version": "1.0.0",
+    "description": "Converts a csv file of players to json",
+    "main": "playercsv2json.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "dependencies": {
+      "bluebird": "^2.9.34"
+    },
+    "author": "Brian Darrow"
+}
